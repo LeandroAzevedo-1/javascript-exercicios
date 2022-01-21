@@ -1,8 +1,8 @@
-# javascript-exercicios
+##javascript-exercicios
   
-   diversas atividades 
+   
 
-Atividade
+#Atividade
 
 Crie uma função que recebe dois números como parâmetros.
 Confira se os números são iguais.
